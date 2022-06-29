@@ -1,0 +1,14 @@
+.nav{
+    background-color: $bg-white;
+    color: $font-color;
+
+    &__brand{
+        width: 100px;
+        height: auto;
+        text-align: left;
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
+}

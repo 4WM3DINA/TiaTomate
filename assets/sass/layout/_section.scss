@@ -1,0 +1,62 @@
+.section1{
+    justify-content: center;
+    align-items: center;
+    background-color: $bg-jellybean;
+    color: $font-color;
+    padding: 5rem;
+}
+
+.section2{
+    justify-content: center;
+    align-items: center;
+    background-color: $bg-granitegray;
+    color: $font-color;
+    padding: 7rem;
+
+    img{
+        width: 100%;
+        height: 30rem; 
+        display: block;
+        margin: auto;
+    }
+}
+
+.section3{
+    justify-content: center;
+    align-items: center;
+    background-color: $bg-white;
+    padding: 5rem;
+    
+    img{
+        width: 100%;
+        height: 30rem; 
+        display: block;
+        margin: auto; 
+    }
+}
+
+.section4{
+    background-color:$bg-jellybean;
+    color: $font-color;
+    padding: 4rem;
+}
+
+.section5{
+    justify-content: center;
+    align-items: center;
+    background-color: $bg-white;
+    padding: 3rem;
+    
+    img{
+        width: 50rem;
+        height: 50rem;  
+        display: block;
+        margin: auto;
+    }
+}
+
+.section6{
+    background-color:$bg-jellybean;
+    color: $font-color;
+    padding: 4rem;
+}
